@@ -1,6 +1,6 @@
 IMAGE sega_splash "tiles/img_sega_splash.png" BEST ALL
 IMAGE classic_title "tiles/img_classic_title.png" BEST ALL
-WAV sonic_coin "sfx/S3K_33.wav" 5
+WAV sonic_coin "sfx/S1_ring1.wav" 5
 IMAGE classic_bg "tiles/img_classic_bg.png" BEST ALL 
 IMAGE classic_bg_resources "tiles/img_classic_bg_resources.png" BEST ALL
 IMAGE classic_credits_0 "tiles/img_classic_credits_0.png" BEST ALL
@@ -11,6 +11,7 @@ TILESET tile_ind13 "tiles/tile_ind13.png" BEST NONE
 TILESET tile_ind0 "tiles/tile_ind0.png" BEST NONE 
 SPRITE spr_biker "sprites/classic_ridebike.png" 4 4 NONE 15
 XGM drums "sfx/dont_let_go_drums.vgm" 0
+XGM hold_tight "sfx/hold_me_tight.vgm" 0
 SPRITE spr_player "sprites/classic_player.png" 4 4 NONE 16
 SPRITE spr_bird "sprites/classic_bird.png" 3 2 NONE 30
 SPRITE spr_person1 "sprites/classic_person1.png" 4 4 NONE 16

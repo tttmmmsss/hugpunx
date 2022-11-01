@@ -180,6 +180,7 @@ void transitionMENUtoCLASSIC_INTRO() {
 
     timerSEGA = 0;
     
+    XGM_startPlay(&hold_tight);
 
     biker.x = -biker.w;
     biker.velx = 0;
@@ -729,8 +730,8 @@ int main()
     
 
 
-    //transitionSEGA();
-    transitionSEGAtoMENU();
+    transitionSEGA();
+    //transitionMENUtoCLASSIC_INTRO();
 
 // main() while(1) ------------------------------------------ main() while(1)
 

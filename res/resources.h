@@ -1,8 +1,9 @@
 #ifndef _RES_RESOURCES_H_
 #define _RES_RESOURCES_H_
 
-extern const u8 sonic_coin[8704];
+extern const u8 sonic_coin[8448];
 extern const u8 drums[5632];
+extern const u8 hold_tight[13824];
 extern const TileSet tile_ind13;
 extern const TileSet tile_ind0;
 extern const SpriteDefinition spr_biker;
