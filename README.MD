@@ -28,7 +28,7 @@ Music credit 5crap5 - Hold Me Tight
 
 Sonic Ring sound from SGDK Sample projects
 
-Porting by recreating sprites, game logic, sound, and hugs by Werel Wolf
+Porting by recreating sprites, game logic, sound, and hugs by Tim Schmidt aka Werel Wolf
 
 ##
 
